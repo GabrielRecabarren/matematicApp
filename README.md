@@ -35,4 +35,4 @@ El objetivo principal del Desafío 1 es que los usuarios practiquen su comprensi
 - Si tienes dudas, intenta descomponer la fracción en partes más simples para facilitar la determinación de la respuesta.
 
 ## Autor
-(GabrielRecabarren)[https://github.com/GabrielRecabarren]
+[GabrielRecabarren](https://github.com/GabrielRecabarren)
