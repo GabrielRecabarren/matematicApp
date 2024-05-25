@@ -1,50 +1,38 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Desafío 1: Fracciones Matemáticas
 
-## Get started
+El Desafío 1 de MatematicApp se centra en el concepto de fracciones matemáticas. Los usuarios son desafiados a determinar la fracción correspondiente a la cantidad de cuadrados verdes en una cuadrícula.
 
-1. Install dependencies
+## Objetivo
 
-   ```bash
-   npm install
-   ```
+El objetivo principal del Desafío 1 es que los usuarios practiquen su comprensión y habilidades con fracciones matemáticas de una manera interactiva y divertida.
 
-2. Start the app
+## Funcionamiento
 
-   ```bash
-    npx expo start
-   ```
+1. **Presentación del Desafío**: Al iniciar el desafío, se presenta al usuario una cuadrícula de cuadrados, donde algunos están pintados de verde y otros permanecen azules. La cantidad de cuadrados pintados de verde varía en cada ejecución.
 
-In the output, you'll find options to open the app in a
+2. **Determinar la Fracción**: Los usuarios deben determinar la fracción correspondiente a la cantidad de cuadrados verdes en relación con el total de cuadrados en la cuadrícula.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+3. **Ingreso de Respuesta**: Se proporcionan dos campos de entrada para que los usuarios ingresen el numerador y el denominador de la fracción.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+4. **Verificación de Respuesta**: Cuando el usuario ingresa su respuesta, la aplicación verifica si es correcta. Si lo es, el usuario avanza al siguiente nivel. De lo contrario, se muestra un mensaje de error y se le pide que vuelva a intentarlo.
 
-## Get a fresh project
+## Cómo Usar
 
-When you're ready, run:
+1. **Iniciar el Desafío**: Abre la aplicación MatematicApp y selecciona el Desafío 1 desde el menú principal.
 
-```bash
-npm run reset-project
-```
+2. **Observar la Cuadrícula**: Examina la cuadrícula de cuadrados presentada en la pantalla. Observa cuántos cuadrados están pintados de verde y cuántos permanecen azules.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+3. **Determinar la Fracción**: Utiliza tus conocimientos de fracciones para determinar la fracción correspondiente a la cantidad de cuadrados verdes.
 
-## Learn more
+4. **Ingresar la Respuesta**: Ingresa la fracción en los campos proporcionados para el numerador y el denominador.
 
-To learn more about developing your project with Expo, look at the following resources:
+5. **Verificar la Respuesta**: Presiona el botón "Enviar Respuesta" para verificar si tu respuesta es correcta. Si es así, ¡avanzarás al siguiente nivel!
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## Consejos
 
-## Join the community
+- Recuerda que el numerador representa la cantidad de cuadrados verdes, mientras que el denominador representa el total de cuadrados en la cuadrícula.
+- Si tienes dudas, intenta descomponer la fracción en partes más simples para facilitar la determinación de la respuesta.
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Autor
+(GabrielRecabarren)[https://github.com/GabrielRecabarren]
