@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "matematicapp",
-    "slug": "matematicapp",
+    "name": "matematicapps",
+    "slug": "matematicapps",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.gabrielrecabarren.matematicapps"
     },
     "web": {
       "bundler": "metro",
@@ -31,6 +32,14 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "d8fe1149-1d30-4745-8c45-205302dab19d"
+      }
     }
   }
 }

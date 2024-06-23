@@ -36,11 +36,11 @@ Se acercan desafíos. Prepárate como mejor te parezca. Anda al baño, preparate
       <ThemedView style={styles.stepContainer}>
         <ThemedText type="subtitle">Paso 3: Comencemos!</ThemedText>
         <ThemedText>
-          Cuando estes lista, presiona el boton rojo, que dice Start para comenzar.
+          Cuando estes lista, presiona el botón que dice Start para comenzar.
         </ThemedText>
         <Button
         title='Start'
-        color="red"
+        color={"gold"}
         onPress={() => router.push('/desafio1')}
 
         />
